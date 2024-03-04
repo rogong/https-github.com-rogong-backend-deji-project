@@ -1,0 +1,4 @@
+{
+  "mongoURL2": "mongodb://rogong:wizard4life@ds163410.mlab.com:63410/locallabrary",
+  "mongoURL": "mongodb://localhost:27017/jobapp"
+}
